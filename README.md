@@ -84,7 +84,8 @@ void push_button(){
 
  
 ## layout of the circuit :
-![Screenshot 2024-08-30 110350](https://github.com/user-attachments/assets/570f3275-063f-47cf-9430-f359b408542b)
+![Screenshot 2024-08-30 111723](https://github.com/user-attachments/assets/708f9a82-8c2a-4a15-a156-5c17af1fcd66)
+
 
  
  
